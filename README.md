@@ -1,2 +1,2 @@
-# ultimate_home_automation
+# ultimate home automation
 the ultimate home automation tool for your daily life
